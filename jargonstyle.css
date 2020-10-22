@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(200, 50%, 85%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: hsl(200, 50%, 50%);
+    font-size: 2rem;
+}
+
+h3 {
+    background: hsl(200, 50%, 65%);
+    color: white;
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: justify;
+}
+
+pre {
+    background-color: white;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: oblique;
+}
+
